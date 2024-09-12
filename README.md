@@ -9,6 +9,8 @@
 3. Buatlah file dataku yang berisi nama, nim dan alamat anda pada sub direktori januari
 dan copy-kan file tersebut ke sub direktori februari dan maret.
 ![2024-09-11_20-59](https://github.com/user-attachments/assets/26eeb508-2344-497a-9991-33e990c0b743)
+![image](https://github.com/user-attachments/assets/ee38505e-155c-42d7-a766-820a049f18a0)
+
  
 4. Ubahlah ijin akses file dataku pada sub direktori januari sehingga group dan others 
 dapat melakukan write. 
@@ -52,6 +54,11 @@ membuat direktori baru "haha" pada sub direktori
 februari.
 ![2024-09-11_21-34](https://github.com/user-attachments/assets/738a6d77-6804-49e6-92f8-778f79e3311e)
 ![366282018-57c6a3b7-d8a8-4274-b6f8-6683529f5dde](https://github.com/user-attachments/assets/aeb446f5-ca7c-4ac1-ab39-4f4c0da0d573)
+
+tanpa akses root
+
+![2024-09-12_09-17](https://github.com/user-attachments/assets/c5331fa4-28f2-48a1-aeff-3e08502af996)
+
 
 9. Modifikasi umask dari file dataku pada sub direktori januari menjadi 027 dan berapakan 
 nilai default-nya ? 
